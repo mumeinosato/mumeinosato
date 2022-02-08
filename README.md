@@ -1,6 +1,6 @@
 <p align="left"> 
   <a href="https://github.com/mumeinosato/mumeinosato">
-    <img src="https://img.shields.io/github/watchers/mumeinosato/mumeinosato" alt="mumeinosato" />
+    <img src="https://img.shields.io/github/watchers/mumeinosato/mumeinosato?style=social" alt="mumeinosato" />
   </a>
   <a href="https://twitter.com/mumeinosato">
     <img height="20" src="https://img.shields.io/twitter/follow/mumeinosato" />
@@ -9,5 +9,5 @@
     <img height="20" src="https://img.shields.io/youtube/channel/views/UCpb92184AP2Ffhyf7u2bD3w" />
   </a>
   <a href="https://github.com/mumeinosato">
-    <img height="20" src="https://img.shields.io/github/followers/mumeinosato" />
+    <img height="20" src="https://img.shields.io/github/followers/mumeinosato?style=social" />
 </p>
