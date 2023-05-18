@@ -15,7 +15,8 @@
 [![mumeinosato's GitHub stats](https://github-readme-stats.vercel.app/api?username=mumeinosato)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mumeinosato&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
-[![GitHub Streak](https://streak-stats.demolab.com?user=mumeinosato&theme=tokyonight-duo)](https://git.io/streak-stats) 
+[![GitHub Streak](https://streak-stats.demolab.com?user=mumeinosato&theme=tokyonight-duo)](https://git.io/streak-stats)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?mumeinosato=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 [![trophy](https://github-profile-trophy.vercel.app/?username=mumeinosato)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Languages and Tools:</h3>
