@@ -15,7 +15,7 @@
 [![mumeinosato's GitHub stats](https://github-readme-stats.vercel.app/api?username=mumeinosato)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mumeinosato&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
-[![GitHub Streak]](https://streak-stats.demolab.com?user=mumeinosato&date_format=%5BY%2F%5Dn%2Fj&ring=48b0d5&fire=48b0d5&currStreakLabel=48b0d5&currStreakNum=48b0d5)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mumeinosato&date_format=%5BY%2F%5Dn%2Fj&ring=48b0d5&fire=48b0d5&currStreakLabel=48b0d5&currStreakNum=48b0d5)](https://git.io/streak-stats)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mumeinosato&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 <h3 align="left">Languages and Tools:</h3>
