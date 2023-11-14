@@ -1,4 +1,4 @@
-<p align="left"> 
+<!-- <p align="left"> 
   <a href="https://github.com/mumeinosato/mumeinosato">
     <img src="https://img.shields.io/github/watchers/mumeinosato/mumeinosato?style=social" alt="mumeinosato" />
   </a>
@@ -10,7 +10,7 @@
   </a>
   <a href="https://github.com/mumeinosato">
     <img height="20" src="https://img.shields.io/github/followers/mumeinosato?style=social" />
-</p>
+</p> -->
   
 [![mumeinosato's GitHub stats](https://github-readme-stats.vercel.app/api?username=mumeinosato)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mumeinosato&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
