@@ -19,8 +19,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mumeinosato)](https://github.com/ryo-ma/github-profile-trophy)
   
-Languages:</h3>
+Languages:<br>
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp,css,discordjs,html,java,js,php,prisma,py,ts,vite,vue)](https://skillicons.dev)<br/>
-Tools:
+Tools:<br>
 [![My Skills](https://skillicons.dev/icons?i=anaconda,arduino,aws,blender,cloudflare,discord,docker,dotnet,gradle,grafana,idea,linux,mysql,nginx,unity,visualstudio,vscode)](https://skillicons.dev)
 
