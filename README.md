@@ -24,5 +24,5 @@
 Languages:<br>
 [![My Skills](https://skillicons.dev/icons?i=bash,c,cs,cpp,go,rust,py,ts,html,css,react,nextjs,remix,vue,nuxtjs,nestjs,prisma,discordjs,flutter,dotnet)](https://skillicons.dev)<br/>
 Tools:<br>
-[![My Skills](https://skillicons.dev/icons?i=anaconda,androidstudio,blender,cloudflare,discord,docker,github,grafana,idea,kubernetes,mongodb,mysql,nginx,nodejs,ubuntu,vim,visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord,github,anaconda,nodejs,ubuntu,nginx,mongodb,mysql,grafana,docker,kubernetes,cloudflare,vscode,visualstudio,idea,androidstudio,vim,blender)](https://skillicons.dev)
 
