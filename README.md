@@ -22,7 +22,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=mumeinosato)](https://github.com/ryo-ma/github-profile-trophy)
   
 Languages:<br>
-[![My Skills](https://skillicons.dev/icons?i=bash,c,cs,cpp,css,discordjs,dotnet,flutter,go,html,nestjs,nextjs,nuxtjs,prisma,py,react,remix,rust,ts,vue)](https://skillicons.dev)<br/>
+[![My Skills](https://skillicons.dev/icons?i=bash,c,cs,cpp,go,rust,py,ts,html,css,react,nextjs,remix,vue,nuxtjs,nestjs,prisma,discordjs,flutter,dotnet)](https://skillicons.dev)<br/>
 Tools:<br>
 [![My Skills](https://skillicons.dev/icons?i=anaconda,androidstudio,blender,cloudflare,discord,docker,github,grafana,idea,kubernetes,mongodb,mysql,nginx,nodejs,ubuntu,vim,visualstudio,vscode)](https://skillicons.dev)
 
