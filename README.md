@@ -17,12 +17,12 @@
 [![mumeinosato's GitHub stats](https://github-readme-stats.vercel.app/api?username=mumeinosato)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mumeinosato&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
-[![GitHub Streak](https://streak-stats.demolab.com?user=mumeinosato&date_format=%5BY%2F%5Dn%2Fj&ring=48b0d5&fire=48b0d5&currStreakLabel=48b0d5&currStreakNum=48b0d5)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://streak-stats.demolab.com?user=mumeinosato&date_format=%5BY%2F%5Dn%2Fj&ring=48b0d5&fire=48b0d5&currStreakLabel=48b0d5&currStreakNum=48b0d5)](https://git.io/streak-stats)　-->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mumeinosato)](https://github.com/ryo-ma/github-profile-trophy)
   
 Languages:<br>
-[![My Skills](https://skillicons.dev/icons?i=cs,cpp,css,discordjs,html,java,js,php,prisma,py,ts,vite,vue)](https://skillicons.dev)<br/>
+[![My Skills](https://skillicons.dev/icons?i=bash,c,cs,cpp,css,discordjs,dotnet,flutter,go,html,nestjs,nextjs,nuxtjs,prisma,py,react,remix,rust,ts,vue)](https://skillicons.dev)<br/>
 Tools:<br>
-[![My Skills](https://skillicons.dev/icons?i=anaconda,arduino,aws,blender,cloudflare,discord,docker,dotnet,gradle,grafana,idea,linux,mysql,nginx,unity,visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,androidstudio,blender,cloudflare,discord,docker,github,grafana,idea,kubernetes,mongodb,mysql,nginx,nodejs,ubuntu,vim,visualstudio,vscode)](https://skillicons.dev)
 
