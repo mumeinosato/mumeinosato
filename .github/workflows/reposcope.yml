@@ -2,7 +2,7 @@ name: Update Language Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * 1"
   workflow_dispatch:
 
 jobs:
@@ -15,11 +15,36 @@ jobs:
       - name: Checkout target repo
         uses: actions/checkout@v3
 
-      - name: Download self-reposcope binary from GitHub Release
+      - name: Get remote ETag
+        id: get_etag
         shell: bash
         run: |
-          curl -L https://github.com/4okimi7uki/self-reposcope/releases/latest/download/self-reposcope -o self-reposcope
-          chmod +x ./self-reposcope
+          ETAG=$(curl -sI https://github.com/4okimi7uki/self-reposcope/releases/latest/download/self-reposcope \
+            | awk -F': ' '/ETag/ {print $2}' \
+            | tr -d '\r"' )
+          if [ -z "$ETAG" ]; then ETAG="no-etag"; fi
+          echo "etag=$ETAG" >> $GITHUB_OUTPUT
+
+      - name: Restore self-reposcope cache
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/self-reposcope
+          key: self-reposcope-${{ steps.get_etag.outputs.etag }}
+          restore-keys: self-reposcope-
+
+      - name: Ensure self-reposcope binary
+        shell: bash
+        run: |
+          mkdir -p ~/.cache/self-reposcope
+          if [ -f ~/.cache/self-reposcope/self-reposcope ]; then
+            echo "Using cached binary"
+            cp ~/.cache/self-reposcope/self-reposcope ./self-reposcope
+          else
+            echo "Downloading binary"
+            curl -L https://github.com/4okimi7uki/self-reposcope/releases/latest/download/self-reposcope -o ~/.cache/self-reposcope/self-reposcope
+            chmod +x ~/.cache/self-reposcope/self-reposcope
+            cp ~/.cache/self-reposcope/self-reposcope ./self-reposcope
+          fi
 
       - name: Run self-reposcope CLI
         shell: bash
