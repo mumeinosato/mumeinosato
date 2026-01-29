@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="410" height="482" xmlns="http://www.w3.org/2000/svg">
+<style>text {
+    color: #a89f9bff;
+}
+
+tspan {
+    fill: #f3f3f3;
+}
+
+/* @media (prefers-color-scheme: dark) {
+}
+@media (prefers-color-scheme: light) {
+    tspan {
+        fill: #333;
+        fill: #f3f3f3;
+    }
+} */
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+@keyframes slideIn {
+    from {
+        width: 0;
+    }
+    to {
+        width: 660;
+    }
+}
+
+#lang_legend,
+#title {
+    opacity: 0;
+    animation: fadeIn 1s ease-in forwards;
+}
+#bar_back {
+    animation: slideIn 1.7s ease-in forwards;
+}
+</style>
+<rect id="border" x="1" y="1" width="408" height="480" fill='#19140fff' stroke-width="1" rx="15" ry="15" />
+<text id="title" x="20" y="40" font-size="18" font-weight="bold" fill='#db4c0fff' font-family="system-ui, -apple-system, sans-serif">Most Used Languages</text>
+
+<defs>
+    <clipPath id="roundedClip">
+        <rect id="bar_back" x="20" y="60" width="370" height="10" rx="5" ry="5">
+        </rect>
+    </clipPath>
+</defs>
+<rect width="370" height="10" x="20" y="60" rx="5" ry="5" fill='#ccc' />
+<g clip-path="url(#roundedClip)">
+    <rect x="20" y="60" width="66" height="10" fill="#4F5D95"> <title>PHP 17.85%</title> </rect>
+    <rect x="86" y="60" width="64" height="10" fill="#e34c26"> <title>HTML 17.26%</title> </rect>
+    <rect x="150" y="60" width="30" height="10" fill="#3178c6"> <title>TypeScript 8.24%</title> </rect>
+    <rect x="180" y="60" width="29" height="10" fill="#b07219"> <title>Java 7.70%</title> </rect>
+    <rect x="209" y="60" width="27" height="10" fill="#663399"> <title>CSS 7.24%</title> </rect>
+    <rect x="236" y="60" width="26" height="10" fill="#000080"> <title>Lua 6.97%</title> </rect>
+    <rect x="262" y="60" width="26" height="10" fill="#41b883"> <title>Vue 6.90%</title> </rect>
+    <rect x="288" y="60" width="22" height="10" fill="#878787"> <title>Hack 6.05%</title> </rect>
+    <rect x="310" y="60" width="15" height="10" fill="#3572A5"> <title>Python 4.04%</title> </rect>
+    <rect x="325" y="60" width="14" height="10" fill="#c6538c"> <title>SCSS 3.78%</title> </rect>
+    <rect x="339" y="60" width="13" height="10" fill="#f1e05a"> <title>JavaScript 3.55%</title> </rect>
+    <rect x="352" y="60" width="9" height="10" fill="#f34b7d"> <title>C++ 2.33%</title> </rect>
+    <rect x="361" y="60" width="7" height="10" fill="#724b3b"> <title>Mustache 1.78%</title> </rect>
+    <rect x="368" y="60" width="6" height="10" fill="#ff5a03"> <title>Astro 1.76%</title> </rect>
+    <rect x="374" y="60" width="4" height="10" fill="#178600"> <title>C# 1.20%</title> </rect>
+    <rect x="378" y="60" width="3" height="10" fill="#00ADD8"> <title>Go 0.68%</title> </rect>
+    <rect x="381" y="60" width="2" height="10" fill="#DA3434"> <title>CMake 0.65%</title> </rect>
+    <rect x="383" y="60" width="2" height="10" fill="#dea584"> <title>Rust 0.63%</title> </rect>
+    <rect x="385" y="60" width="2" height="10" fill="#00B4AB"> <title>Dart 0.52%</title> </rect>
+    <rect x="387" y="60" width="1" height="10" fill="#89e051"> <title>Shell 0.22%</title> </rect>
+    <rect x="388" y="60" width="1" height="10" fill="#384d54"> <title>Dockerfile 0.21%</title> </rect>
+    <rect x="389" y="60" width="0" height="10" fill="#555555"> <title>C 0.11%</title> </rect>
+    <rect x="389" y="60" width="0" height="10" fill="#cccccc"> <title>Go Template 0.09%</title> </rect>
+    <rect x="389" y="60" width="0" height="10" fill="#F05138"> <title>Swift 0.08%</title> </rect>
+    <rect x="389" y="60" width="0" height="10" fill="#f0c040"> <title>Smarty 0.07%</title> </rect>
+    <rect x="389" y="60" width="0" height="10" fill="#844FBA"> <title>HCL 0.04%</title> </rect>
+    <rect x="389" y="60" width="0" height="10" fill="#cccccc"> <title>Linker Script 0.02%</title> </rect>
+    <rect x="389" y="60" width="0" height="10" fill="#15dcdc"> <title>VBScript 0.01%</title> </rect>
+    <rect x="389" y="60" width="0" height="10" fill="#C1F12E"> <title>Batchfile 0.01%</title> </rect>
+    <rect x="389" y="60" width="0" height="10" fill="#A97BFF"> <title>Kotlin 0.01%</title> </rect>
+    <rect x="389" y="60" width="0" height="10" fill="#438eff"> <title>Objective-C 0.00%</title> </rect>
+</g>
+<g id="lang_legend">
+<circle cx="30" cy="100" r="6" fill="#4F5D95" />
+<text x="46" y="104" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>PHP</tspan> 17.85%</text>
+<circle cx="225" cy="100" r="6" fill="#e34c26" />
+<text x="241" y="104" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>HTML</tspan> 17.26%</text>
+<circle cx="30" cy="124" r="6" fill="#3178c6" />
+<text x="46" y="128" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>TypeScript</tspan> 8.24%</text>
+<circle cx="225" cy="124" r="6" fill="#b07219" />
+<text x="241" y="128" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>Java</tspan> 7.70%</text>
+<circle cx="30" cy="148" r="6" fill="#663399" />
+<text x="46" y="152" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>CSS</tspan> 7.24%</text>
+<circle cx="225" cy="148" r="6" fill="#000080" />
+<text x="241" y="152" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>Lua</tspan> 6.97%</text>
+<circle cx="30" cy="172" r="6" fill="#41b883" />
+<text x="46" y="176" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>Vue</tspan> 6.90%</text>
+<circle cx="225" cy="172" r="6" fill="#878787" />
+<text x="241" y="176" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>Hack</tspan> 6.05%</text>
+<circle cx="30" cy="196" r="6" fill="#3572A5" />
+<text x="46" y="200" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>Python</tspan> 4.04%</text>
+<circle cx="225" cy="196" r="6" fill="#c6538c" />
+<text x="241" y="200" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>SCSS</tspan> 3.78%</text>
+<circle cx="30" cy="220" r="6" fill="#f1e05a" />
+<text x="46" y="224" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>JavaScript</tspan> 3.55%</text>
+<circle cx="225" cy="220" r="6" fill="#f34b7d" />
+<text x="241" y="224" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>C++</tspan> 2.33%</text>
+<circle cx="30" cy="244" r="6" fill="#724b3b" />
+<text x="46" y="248" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>Mustache</tspan> 1.78%</text>
+<circle cx="225" cy="244" r="6" fill="#ff5a03" />
+<text x="241" y="248" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>Astro</tspan> 1.76%</text>
+<circle cx="30" cy="268" r="6" fill="#178600" />
+<text x="46" y="272" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>C#</tspan> 1.20%</text>
+<circle cx="225" cy="268" r="6" fill="#00ADD8" />
+<text x="241" y="272" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>Go</tspan> 0.68%</text>
+<circle cx="30" cy="292" r="6" fill="#DA3434" />
+<text x="46" y="296" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>CMake</tspan> 0.65%</text>
+<circle cx="225" cy="292" r="6" fill="#dea584" />
+<text x="241" y="296" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>Rust</tspan> 0.63%</text>
+<circle cx="30" cy="316" r="6" fill="#00B4AB" />
+<text x="46" y="320" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>Dart</tspan> 0.52%</text>
+<circle cx="225" cy="316" r="6" fill="#89e051" />
+<text x="241" y="320" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>Shell</tspan> 0.22%</text>
+<circle cx="30" cy="340" r="6" fill="#384d54" />
+<text x="46" y="344" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>Dockerfile</tspan> 0.21%</text>
+<circle cx="225" cy="340" r="6" fill="#555555" />
+<text x="241" y="344" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>C</tspan> 0.11%</text>
+<circle cx="30" cy="364" r="6" fill="#cccccc" />
+<text x="46" y="368" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>Go Template</tspan> 0.09%</text>
+<circle cx="225" cy="364" r="6" fill="#F05138" />
+<text x="241" y="368" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>Swift</tspan> 0.08%</text>
+<circle cx="30" cy="388" r="6" fill="#f0c040" />
+<text x="46" y="392" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>Smarty</tspan> 0.07%</text>
+<circle cx="225" cy="388" r="6" fill="#844FBA" />
+<text x="241" y="392" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>HCL</tspan> 0.04%</text>
+<circle cx="30" cy="412" r="6" fill="#cccccc" />
+<text x="46" y="416" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>Linker Script</tspan> 0.02%</text>
+<circle cx="225" cy="412" r="6" fill="#15dcdc" />
+<text x="241" y="416" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>VBScript</tspan> 0.01%</text>
+<circle cx="30" cy="436" r="6" fill="#C1F12E" />
+<text x="46" y="440" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>Batchfile</tspan> 0.01%</text>
+<circle cx="225" cy="436" r="6" fill="#A97BFF" />
+<text x="241" y="440" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>Kotlin</tspan> 0.01%</text>
+<circle cx="30" cy="460" r="6" fill="#438eff" />
+<text x="46" y="464" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>Objective-C</tspan> 0.00%</text>
+</g>
+</svg>
