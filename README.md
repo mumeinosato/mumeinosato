@@ -38,7 +38,9 @@
 [![trophy](https://github-profile-trophy.mumeinosato.com/?username=mumeinosato)](https://github.com/ryo-ma/github-profile-trophy)
   
 Languages:<br>
-[![My Skills](https://skillicons.dev/icons?i=bash,c,cs,cpp,go,rust,py,ts,html,css,react,nextjs,remix,vue,nuxtjs,nestjs,prisma,discordjs,flutter,dotnet)](https://skillicons.dev)<br/>
+[![My Skills](https://skillicons.dev/icons?i=bash,cpp,go,rust,py,ts)](https://skillicons.dev)<br/>
+Frameworks:<br>
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,remix,nestjs,prisma)](https://skillicons.dev)<br/>
 Tools:<br>
-[![My Skills](https://skillicons.dev/icons?i=discord,github,anaconda,nodejs,ubuntu,nginx,mongodb,mysql,grafana,docker,kubernetes,cloudflare,vscode,visualstudio,idea,androidstudio,vim,blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,nodejs,ubuntu,nginx,docker,kubernetes)](https://skillicons.dev)
 
