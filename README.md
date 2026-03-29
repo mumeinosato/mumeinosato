@@ -26,17 +26,24 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mumeinosato&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
+<!--  
 [![mumeinosato's GitHub stats](https://github-readme-stats.mumeinosato.com/api?username=mumeinosato)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.mumeinosato.com/api/top-langs/?username=mumeinosato&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- 
+-->
+
+!["mumeinosato's GitHub stats"]("./profile/stats.svg")
+!["Top Langs"]("./profile/top-langs.svg")
+
 <!--[![GitHub Streak](https://github-profile-trophy.vercel.app/?username=mumeinosato)](https://git.io/streak-stats)　-->
 
 <!--  
 [![trophy](https://github-profile-trophy.vercel.app/?username=mumeinosato)](https://github.com/ryo-ma/github-profile-trophy)
 -->
 
-[![trophy](https://github-profile-trophy.mumeinosato.com/?username=mumeinosato)](https://github.com/ryo-ma/github-profile-trophy)
-  
+<!--[![trophy](https://github-profile-trophy.mumeinosato.com/?username=mumeinosato)](https://github.com/ryo-ma/github-profile-trophy)
+-->
+![trophy](./trophy.svg) 
+
 Languages:<br>
 [![My Skills](https://skillicons.dev/icons?i=bash,cpp,go,rust,py,ts)](https://skillicons.dev)<br/>
 Frameworks:<br>
