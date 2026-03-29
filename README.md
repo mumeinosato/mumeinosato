@@ -31,8 +31,8 @@
 [![Top Langs](https://github-readme-stats.mumeinosato.com/api/top-langs/?username=mumeinosato&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-!["mumeinosato's GitHub stats"]("./profile/stats.svg")
-!["Top Langs"]("./profile/top-langs.svg")
+!["mumeinosato's GitHub stats"](./profile/stats.svg)
+!["Top Langs"](./profile/top-langs.svg)
 
 <!--[![GitHub Streak](https://github-profile-trophy.vercel.app/?username=mumeinosato)](https://git.io/streak-stats)　-->
 
