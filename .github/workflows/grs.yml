@@ -34,3 +34,16 @@ jobs:
           git add profile/*.svg
           git commit -m "Update README cards" || exit 0
           git push
+
+      - name: Generate Profile Trophy
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+            token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+            username: mumeinosato
+            file: trophy.svg
+            theme: classic
+            panel-size: 115
+            margin-width: 10
+            margin-height: 10
+            no-background: false
+            no-frame: false
