@@ -45,7 +45,7 @@
 ![trophy](./trophy.svg) 
 
 Languages:<br>
-[![My Skills](https://skillicons.dev/icons?i=bash,cpp,go,rust,py,ts)](https://skillicons.dev)<br/>
+[![My Skills](https://skillicons.dev/icons?i=bash,cpp,go,py,ts)](https://skillicons.dev)<br/>
 Frameworks:<br>
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,remix,nestjs,prisma)](https://skillicons.dev)<br/>
 Tools:<br>
