@@ -49,5 +49,5 @@ Languages:<br>
 Frameworks:<br>
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,remix,nestjs,prisma)](https://skillicons.dev)<br/>
 Tools:<br>
-[![My Skills](https://skillicons.dev/icons?i=github,nodejs,ubuntu,nginx,docker,kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,nodejs,ubuntu,nginx,kubernetes)](https://skillicons.dev)
 
