@@ -1,4 +1,4 @@
-![Guthub Viewers](https://komarev.com/ghpvc/?username=mumeinosato)
+<!-- ![Guthub Viewers](https://komarev.com/ghpvc/?username=mumeinosato) -->
 
 <!-- 
 <p align="left">
